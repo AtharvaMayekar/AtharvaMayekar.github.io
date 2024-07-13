@@ -1,5 +1,7 @@
 body {
-    padding-top: 4rem;
+    padding: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     width: auto;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background: rgb(35, 0, 0);
