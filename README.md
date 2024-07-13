@@ -1,10 +1,11 @@
-# Portfolio
+# Portfolio 
+Link to page: [https://AtharvaMayekar.github.io](https://AtharvaMayekar.github.io)
 
-**About**
+## About
 
-Personal portoflio static website to showcase my background, experience, and skills.
+Personal portoflio website to showcase my background, experience, and skills.
 
-**Tech Stack**
+## Tech Stack
 
 - HTML
 - CSS
